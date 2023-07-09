@@ -1,0 +1,43 @@
+header {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .nav {
+        display: flex;
+
+    }
+
+    .nav__list {
+        margin-left: 694px;
+        margin-top: 8px;
+        width: 350px;
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+    }
+
+    .nav__list__link {
+        text-decoration: none;
+        color: #83888F;
+        font-size: 12px;
+        font-family: Barlow;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+    }
+
+
+    
+
+}

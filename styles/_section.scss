@@ -1,0 +1,42 @@
+section {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .hero {
+        margin-top: -19rem;
+        margin-left: 86px;
+    }
+
+    .section_img {
+        border-radius: 8px;
+    }
+
+    .section_title {
+        color: #FEFCF7;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+
+    .section_text {
+        color: #FEFCF7;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        width: 445px;
+        margin-top: 24px;
+    }
+}

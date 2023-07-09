@@ -1,0 +1,294 @@
+header * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+header .nav {
+  display: flex;
+}
+header .nav__list {
+  margin-left: 694px;
+  margin-top: 8px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+header .nav__list__link {
+  text-decoration: none;
+  color: #83888F;
+  font-size: 12px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+  text-transform: uppercase;
+}
+
+section * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+section .hero {
+  margin-top: -19rem;
+  margin-left: 86px;
+}
+section .section_img {
+  border-radius: 8px;
+}
+section .section_title {
+  color: #FEFCF7;
+  font-family: "Fraunces", serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 48px;
+}
+section .section_text {
+  color: #FEFCF7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  width: 445px;
+  margin-top: 24px;
+}
+
+main * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+main .coffee {
+  margin-top: 270px;
+  margin-left: 85px;
+  display: flex;
+}
+main .main_wrapper {
+  margin-left: 690px;
+  margin-top: -27rem;
+}
+main .main_title {
+  color: #333D4B;
+  font-family: "Fraunces", serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 48px;
+}
+main .main_text {
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  width: 540px;
+  margin-top: 32px;
+}
+
+section-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section-wrapper .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+section-wrapper .back_texts {
+  padding: 85px;
+}
+section-wrapper .background {
+  width: 1280px;
+  height: 474px;
+  background-color: #2C343E;
+  border-radius: 10px;
+  margin-top: 334px;
+}
+section-wrapper .background_title {
+  color: #FEFCF7;
+  font-family: "Fraunces", serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 48px;
+}
+section-wrapper .background_text {
+  color: #FEFCF7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  width: 540px;
+  margin-top: 30px;
+}
+section-wrapper .back_img {
+  margin-left: 750px;
+  margin-top: -35rem;
+}
+
+main-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main-wrapper .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+main-wrapper .locatsiya {
+  color: #83888F;
+  font-family: "Fraunces", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 32px;
+  margin-top: 250px;
+  margin-left: 85px;
+}
+main-wrapper .country {
+  display: flex;
+  justify-content: space-around;
+}
+main-wrapper .united {
+  margin-top: 34px;
+}
+main-wrapper .united_title {
+  display: flex;
+  width: 272px;
+  color: #333D4B;
+  font-family: "Fraunces", serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+  margin-top: 46px;
+}
+main-wrapper .united_text {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 24px;
+}
+main-wrapper .canada {
+  margin-left: -108px;
+}
+main-wrapper .canada_img {
+  margin-top: 72px;
+}
+main-wrapper .canada_title {
+  width: 255px;
+  color: #333D4B;
+  font-family: "Fraunces", serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+  margin-top: 45px;
+}
+main-wrapper .canada_text {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 24px;
+}
+main-wrapper .australia {
+  margin-left: -125px;
+}
+main-wrapper .australia_img {
+  margin-top: 72px;
+}
+main-wrapper .australia_title {
+  width: 255px;
+  color: #333D4B;
+  font-family: "Fraunces", serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+  margin-top: 48px;
+}
+main-wrapper .australia_text {
+  width: 285px;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 24px;
+}
+
+nav * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav .container {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 43.5px;
+}
+nav .background_img {
+  width: 1280px;
+  height: 120px;
+  background: #2C343E;
+}
+nav .logo {
+  margin-top: 47px;
+  margin-left: 85px;
+}
+nav .nav__list2 {
+  margin-left: 698px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: -1.3rem;
+  margin-left: 424px;
+}
+nav .nav__list__link2 {
+  text-decoration: none;
+  color: #83888F;
+  font-size: 12px;
+  font-family: Barlow;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+  text-transform: uppercase;
+}
+nav .website {
+  margin-left: 1075px;
+  margin-top: -1.35em;
+  display: flex;
+}/*# sourceMappingURL=style.css.map */

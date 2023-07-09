@@ -1,0 +1,123 @@
+main-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .locatsiya {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        margin-top: 250px;
+        margin-left: 85px;
+    }
+
+    .country {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .united {
+        margin-top: 34px;
+    }
+
+    .united_title {
+        display: flex;
+        width: 272px;
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+        margin-top: 46px;
+    }
+
+    .united_text {
+        width: 285px;
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-top: 24px;
+        // margin-left: 85px;
+    }
+
+    .canada{
+        margin-left: -108px;
+    }
+
+    .canada_img {
+        margin-top: 72px;
+    }
+
+    .canada_title {
+        width: 255px;
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+        margin-top: 45px;
+    }
+
+    .canada_text {
+        width: 285px;
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-top: 24px;
+    }
+
+    .australia{
+        margin-left: -125px;
+    }
+
+    .australia_img{
+        margin-top: 72px;
+    }
+
+    .australia_title {
+        width: 255px;
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+        margin-top: 48px;
+    }
+
+    .australia_text {
+        width: 285px;
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-top: 24px;
+    }
+
+
+
+
+
+
+}
